@@ -2,7 +2,7 @@
 
 Coin Name : Planetpay
 
-Ticker : PLTG
+Ticker : PLT
 
 Coin Type : POS 
 
@@ -12,7 +12,7 @@ Block Time : 90 Sec Approx
 
 Block Size : 3MB 
 
-Block Reward: 64 PLTG increasing to 80 at block 88900
+Block Reward: check table rewards planetpat.es
  
 Total Coins: 21,000,000
 
