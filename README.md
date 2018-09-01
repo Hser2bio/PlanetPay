@@ -12,7 +12,7 @@ Block Time : 90 Sec Approx
 
 Block Size : 3MB 
 
-Block Reward: check table rewards planetpat.es
+Block Reward: check table rewards planetpay.es
  
 Total Coins: 21,000,000
 
